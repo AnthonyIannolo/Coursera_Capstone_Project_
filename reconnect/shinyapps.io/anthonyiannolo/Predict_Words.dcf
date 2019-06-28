@@ -1,0 +1,12 @@
+name: Predict_Words
+title: Predict_Words
+username:
+account: anthonyiannolo
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 993352
+bundleId: 2171242
+url: https://anthonyiannolo.shinyapps.io/Predict_Words/
+when: 1561224726.12003
+asMultiple: FALSE
+asStatic: FALSE
